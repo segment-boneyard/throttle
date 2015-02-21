@@ -12,8 +12,7 @@ var Version = "0.0.1"
 
 const Usage = `
   Usage:
-    throttle <ops>
-    throttle <ops> <duration>
+    throttle <ops> [<duration>]
     throttle -h | --help
     throttle --version
 
