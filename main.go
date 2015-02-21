@@ -8,7 +8,7 @@ import "log"
 import "os"
 import "io"
 
-var Version = "0.0.1"
+var Version = "1.0.0"
 
 const Usage = `
   Usage:
